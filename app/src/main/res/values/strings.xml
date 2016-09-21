@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">etcweb</string>
+    <string name="select_church">Select a CRC</string>
+    <string name="announcement">Birth Announcement</string>
+    <string name="person_name">John Smith</string>
+    <string name="join_date">March 31, 2016</string>
+    <string name="details">DETAILS</string>
+    <string name="watch">Watch</string>
+    <string name="pray">Pray</string>
+    <string name="directory">Directory</string>
+    <string name="events">Events</string>
+    <string name="give">Give</string>
+    <string name="inspire">Inspire</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_select_crc">SelectCRC</string>
+    <string name="title_activity_search_crc">SearchCRC</string>
+    <string name="title_activity_church_map">ChurchMapActivity</string>
+</resources>
